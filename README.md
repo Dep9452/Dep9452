@@ -1,109 +1,215 @@
-[![@abhinendrayadav3's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@abhinendrayadav3)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Abhinendra Singh</h1>
-<h3 align="center">A passionate developer from India</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=DEEPAK%20MEHTA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Tomorrow's%20Systems,%20One%20Commit%20at%20a%20Time&descAlignY=58&descSize=18" width="100%"/>
 
+<br/>
 
-###
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Building+with+C%2B%2B+%7C+Java+%7C+Python;Exploring+Data+Structures+%26+Algorithms;Diving+Deep+into+AI+%2F+Machine+Learning;Currently+Architecting%3A+System+Design;Open+Source+%7C+Cloud+%7C+Automation" alt="Typing SVG" />
+</a>
 
-<img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
+<br/>
 
-###
-- 🔭 I’m currently working on **Backend**
-  
-- 🌱 I’m currently learning **Spring Boot, Spring AI**
+<img src="https://komarev.com/ghpvc/?username=Deepak-Mehta-CSE&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" alt="profile views"/>&nbsp;
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20IN%20PUBLIC-2C5364?style=for-the-badge&labelColor=0F2027" alt="status"/>&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-INDIA-orange?style=for-the-badge&labelColor=0F2027" alt="location"/>
 
-- 💬 Ask me about **Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
+</div>
 
-- 📫 How to reach me **abhinendrayadav3@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3> 
-<p align="left">
-<a href="https://linkedin.com/in/abhinendrasingh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhinendrasingh3" height="30" width="40" /></a>
-<a href="https://instagram.com/_jodxd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_avvhii" height="30" width="40" /></a>
-</p> 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203A43,100:2C5364&height=2&section=header" width="100%"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- HTML -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
+## `01` — MISSION CONTROL
 
-  <!-- CSS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
+```yaml
+identity:
+  name: "Deepak Mehta"
+  role: "Computer Science Engineering Student"
+  base: "India"
+  mission: >
+    Building world-changing technology —
+    one system, one algorithm, one line at a time.
 
-  <!-- React -->
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
+current_focus:
+  - Data Structures & Algorithms
+  - System Design
+  - Backend Development
+  - Cloud Computing
+  - Artificial Intelligence / Machine Learning
 
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
+long_term_vision: >
+  Design and ship products that scale to millions,
+  and build a company that outlives its founder.
+```
 
-  <!-- Express -->
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
+</td>
+<td width="40%" valign="top">
 
-  <!-- SQL -->
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40"/>
-  </a>
+**Engineering Principles**
 
-  <!-- PostgreSQL -->
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
+`01` Simplicity beats cleverness
+`02` Ship, measure, iterate
+`03` Read the docs before the blog post
+`04` Optimize for maintainability
+`05` Every system fails — design for it
+`06` Understand the "why" before the "how"
 
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
+</td>
+</tr>
+</table>
 
-  <!-- Java -->
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203A43,100:2C5364&height=2&section=header" width="100%"/>
 
-  <!-- Spring Boot -->
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/>
-  </a>
+## `02` — TECH UNIVERSE
 
-  <!-- Docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
+<div align="center">
 
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-  </a>
+### Languages & Core
 
-  <!-- GitLab -->
-  <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="GitLab" width="40" height="40"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css&theme=dark" />
 
-  <!-- Redis -->
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  </a>
-</p>
+### Web & Backend
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhinendraSingh3/abhinendraSingh3/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,spring,mongodb,postgres&theme=dark" />
 
-<br clear="both">
+### Infra & Tooling
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,githubactions&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Skill Radar**
+
+| Domain | Progress |
+|:--|:--|
+| Data Structures & Algorithms | `████████████░░░░░░░░` 60% |
+| C++ | `██████████████░░░░░░` 70% |
+| Java | `████████████░░░░░░░░` 60% |
+| Python | `██████████████░░░░░░` 70% |
+| Web Development | `██████████░░░░░░░░░░` 50% |
+| System Design | `███████░░░░░░░░░░░░░` 35% |
+| Machine Learning | `████████░░░░░░░░░░░░` 40% |
+| Cloud Computing | `██████░░░░░░░░░░░░░░` 30% |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203A43,100:2C5364&height=2&section=header" width="100%"/>
+
+## `03` — SYSTEM STATUS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Deepak-Mehta-CSE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deepak-Mehta-CSE&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-Mehta-CSE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-Mehta-CSE&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" width="49%"/>
+
+</div>
+
+> Replace `Deepak-Mehta-CSE` in every stats URL above with your actual GitHub username so the widgets pull your real data.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203A43,100:2C5364&height=2&section=header" width="100%"/>
+
+## `04` — TERMINAL SNAPSHOT
+
+```bash
+deepak@dev:~$ whoami
+> Computer Science Engineering Student | Builder | Problem Solver
+
+deepak@dev:~$ cat current_learning.log
+> [x] Data Structures & Algorithms
+> [x] Git & GitHub workflows
+> [ ] System Design fundamentals
+> [ ] Backend architecture at scale
+> [ ] Cloud Computing (AWS / GCP)
+
+deepak@dev:~$ ./run_life_philosophy.sh
+> "Consistency compounds. Ship small, ship often, learn always."
+
+deepak@dev:~$ echo $NEXT_MILESTONE
+> Building products that solve real problems for real people.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203A43,100:2C5364&height=2&section=header" width="100%"/>
+
+## `05` — BUILDING LOG · CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Deepak-Mehta-CSE/Deepak-Mehta-CSE/output/github-snake-dark.svg" width="100%" alt="contribution snake"/>
+
+</div>
+
+> This animation is generated automatically via the GitHub Action in `.github/workflows/snake.yml` (included below). It regenerates daily from your real contribution graph.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203A43,100:2C5364&height=2&section=header" width="100%"/>
+
+## `06` — VISION BOARD
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+**🎯 Now**
+Mastering DSA + System Design while shipping small backend projects.
+
+</td>
+<td width="33%" valign="top">
+
+**🚀 Next**
+Contributing to open-source, deepening AI/ML fundamentals, cloud-native builds.
+
+</td>
+<td width="33%" valign="top">
+
+**🌌 Future**
+Founding a technology company that solves problems at scale.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Interests fueling the journey**
+
+`Artificial Intelligence` · `Cybersecurity` · `Startups` · `Automation` · `Robotics` · `Space Technology`
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:203A43,100:2C5364&height=2&section=header" width="100%"/>
+
+## `07` — CONTACT PORTAL
+
+<div align="center">
+
+<a href="mailto:deepakmehta7d@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> "The best way to predict the future is to build it."
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer" width="100%"/>
